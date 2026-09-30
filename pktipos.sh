@@ -1,7 +1,7 @@
 #!/bin/bash
 
 usu=$(whoami)
-ubi=$(find /home/$usu/ -name "juego")
+ubi=$(find /home/$usu/ -name "pokemon.sh" -exec dirname {} \;)
 
 source $ubi/funciones.sh
 
