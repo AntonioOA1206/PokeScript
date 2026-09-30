@@ -7,14 +7,13 @@ Se juega desde la terminal
 ## 📁 Estructura del proyecto
 
 ```
-juego/
-├── combate.sh        # Sistema de combate
-├── funciones.sh      # Funciones auxiliares utilizadas
-├── jugar.sh          # Las opciones a realizar durante la partida
-├── pktipos.sh        # Menu de los tipos Pokémon
-├── pokemon.sh        # Script principal para iniciar el juego y fase de "creacion" del Pokemon
-├── tablatipos.txt    # Tabla de efectividades entre tipos
-├── partidas/         # Carpeta donde se guardan las partidas
+── combate.sh        # Sistema de combate
+── funciones.sh      # Funciones auxiliares utilizadas
+── jugar.sh          # Las opciones a realizar durante la partida
+── pktipos.sh        # Menu de los tipos Pokémon
+── pokemon.sh        # Script principal para iniciar el juego y fase de "creacion" del Pokemon
+── tablatipos.txt    # Tabla de efectividades entre tipos
+── partidas/         # Carpeta donde se guardan las partidas
 ```
 
 ---
